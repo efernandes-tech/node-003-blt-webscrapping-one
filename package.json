@@ -1,0 +1,27 @@
+{
+  "name": "node-003-blt-webscrapping-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edersonlrf/node-003-blt-webscrapping-one.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Éderson Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edersonlrf/node-003-blt-webscrapping-one/issues"
+  },
+  "homepage": "https://github.com/edersonlrf/node-003-blt-webscrapping-one#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
